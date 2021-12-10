@@ -1,0 +1,3 @@
+POST 'https://mc1.cryptosavannah.com/api/v1/binusu/tenants/orders' Creates a Tenant Order on Binusu Exchange
+
+GET 'https://mc1.cryptosavannah.com/api/v1/binusu/tenants/orders' Gets all tenant orders and statuses
